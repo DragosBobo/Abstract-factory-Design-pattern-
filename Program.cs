@@ -4,6 +4,9 @@
     {
         ClientCode(new TruckCreator());
 
+
+
+        ClientCode(new ShipCreator());
         Console.ReadKey();
     }
     public static void ClientCode(Creator creator)
